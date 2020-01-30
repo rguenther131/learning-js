@@ -1,7 +1,0 @@
-Created locally to test connection with github.  That's all.  
-
-...and this line was created on my laptop, not the desktop that 
-   was used to create the first stuff above.  That's all.
-
-20 jan 2020
-
